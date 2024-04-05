@@ -7,7 +7,7 @@ This repository exists to provide sample datasets for the `atmospy` library and 
 
 | Name | Source | Notes |
 |:-----|:-------|:------|
-| `us-ozone` | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw | |
+| `us-ozone` | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw | The top 100 sites across the US with ozone data |
 | `us-bc` | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw | Complete set of Black Carbon data available from EPA |
 <!-- | `us-pm`| https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw|
 | `psd-` ||

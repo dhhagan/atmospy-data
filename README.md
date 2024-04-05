@@ -5,10 +5,10 @@ This repository exists to provide sample datasets for the `atmospy` library and 
 
 # Data Sources
 
-| Name | Source | Notes |
-|:-----|:-------|:------|
-| `us-ozone` | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw | The top 100 sites across the US with ozone data |
-| `us-bc` | https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw | Complete set of Black Carbon data available from EPA |
+| Name | Notes | Source |
+|:-----|:------|:-------|
+| `us-ozone` | The top 100 sites across the US with ozone data |  [src](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw) |
+| `us-bc`| Complete set of Black Carbon data available from EPA | [src](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw)
 <!-- | `us-pm`| https://aqs.epa.gov/aqsweb/airdata/download_files.html#Raw|
 | `psd-` ||
 | `airsensor-comparison` | QuantAQ, Inc. | -->

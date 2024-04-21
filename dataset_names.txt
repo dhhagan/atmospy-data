@@ -1,2 +1,4 @@
 us-ozone
 us-bc
+air-sensors-pm
+air-sensors-met
